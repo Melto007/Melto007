@@ -41,6 +41,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<details>
+  <!--START_SECTION:activity-->
+</details>
 <details>
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Melto007's GitHub Stats" src="https://github-readme-stats-xi-one.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
