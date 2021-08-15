@@ -36,11 +36,12 @@
 
 <br />
 <br />
+<br />
+<br />
 
-<details>
-<summary>:zap: GitHub Stats</summary>
+### zap: GitHub Stats
 <img align="left" alt="Melto007's GitHub Stats" src="https://github-readme-stats-xi-one.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
-</details>
+
 
 [twitter]: https://twitter.com/Melto_official
 [instagram]: https://www.instagram.com/shehin_melto/
