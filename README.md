@@ -43,7 +43,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<img align="left" alt="Melto007's GitHub Stats" src="https://https-github-com-melto007-github-readme-stats-git.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
+<img align="left" alt="Melto007's GitHub Stats" src="https://github-readme-stats-xi-one.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/Melto_official
