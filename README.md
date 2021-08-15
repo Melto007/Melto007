@@ -45,7 +45,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-com-melto007-github-readme-stats-git.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
+    <img align="left" alt="Melto007's GitHub Stats" src="https://https-github-com-melto007-github-readme-stats-git.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
 </details>
 
 [twitter]: https://twitter.com/Melto_official
