@@ -37,6 +37,11 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [twitter]: https://twitter.com/Melto_official
 [instagram]: https://www.instagram.com/shehin_melto/
 
