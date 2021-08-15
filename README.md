@@ -43,10 +43,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Melto007's GitHub Stats" src="https://https-github-com-melto007-github-readme-stats-git.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="Melto007's GitHub Stats" src="https://https-github-com-melto007-github-readme-stats-git.vercel.app/api?username=Melto007&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://twitter.com/Melto_official
 [instagram]: https://www.instagram.com/shehin_melto/
