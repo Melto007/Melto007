@@ -1,4 +1,4 @@
-### Hi there, I'm Melto [website]👋
+### Hi there, I'm Melto 👋
 
 ## I'm a Developer !!
 
