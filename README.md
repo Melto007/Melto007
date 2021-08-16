@@ -1,6 +1,6 @@
 ### Hi there, I'm Melto 👋
 
-## I'm a Developer !!
+## I'm a Developer, learner !!
 
 - 🌱 I’m currently working ...
 - 👀 I’m interested in learning new things ...
