@@ -5,7 +5,7 @@
 - 🌱 I’m currently working ...
 - 👀 I’m interested in learning new things ...
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: too become a android developer
+- 🥅 2021 Goals: too become a android developer
 - ⚡ Fun fact: I love to listen music
 
 ### Connect with me:
