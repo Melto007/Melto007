@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on Cynowa...
 - 👀 I’m interested in learning new things ...
-- 🥅 2021 Goals: too become a android developer
+- 🥅 2022 Goals: too become a frontend developer
 - ⚡ Fun fact: I love to listen music
 
 ### Connect with me:
