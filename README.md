@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on Cynowa...
 - 👀 I’m interested in learning new things ...
-- 🥅 2022 Goals: too become a frontend developer
+- 🥅 2022 Goals: too become a fullstack developer
 - ⚡ Fun fact: I love to listen music
 
 ### Languages and Tools:
