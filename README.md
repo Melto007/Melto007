@@ -1,4 +1,4 @@
-### Hi there, I'm Melto 👋
+<h1 align="center">Hi 👋, I'm Melto</h1>
 
 ## I'm a Developer, learner !!
 
